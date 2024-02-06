@@ -4,11 +4,6 @@ authors:
   - name: Pedro A. García Sánchez
     affiliations:
       - Universidad de Granada
-exports:
-  - format: pdf
-    template: curvenote
-    article_type: paper
-    output: exports/matrices.pdf
 ---
 
 In our first lecture, the connection between numerical semigroups and Diophantine equalities was made explicit. In this last lecture we will show how the set of all numerical semigroups with fixed multiplicity can be described in terms of a finite system of Diophantine inequalities. We will also give some families of numerical semigroups that can be defined as the set of solutions of a Diophantine inequality.

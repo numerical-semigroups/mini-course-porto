@@ -4,11 +4,6 @@ authors:
   - name: Pedro A. García Sánchez
     affiliations:
       - Universidad de Granada
-exports:
-  - format: pdf
-    template: curvenote
-    article_type: paper
-    output: exports/matrices.pdf
 ---
 
 There are several families that have been of interest in the literature due to
