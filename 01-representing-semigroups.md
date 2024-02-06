@@ -62,7 +62,7 @@ The Apéry set of $n$ in $S$ has some wonderful properties. We enumerate some of
 
 - More generally, an integer $g$ is a pseudo-Frobenius number of $S$ if and only if $g+n$ is maximal in $\operatorname{Ap}(S,n)$ with respect to $\leq_S$. It follows that the type of $S$ is the cardinality of $\operatorname{Maximals}_{\leq_S}(\operatorname{Ap}(S,n))$.
 
-- By Selmer's formula, the number of gaps equals $\frac{1}n\sum_{w\in\operatorname{Ap}(S,n)}w +\frac{n-1}2$.
+- By Selmer's formula, the number of gaps equals $\frac{1}n\sum_{w\in\operatorname{Ap}(S,n)}w -\frac{n-1}2$.
 
 Hence the knowledge of the Apéry set of a numerical semigroup $S$ with respect to any of its nonzero elements, solves the membership problem, allows us to know the Frobenius number of $S$, its pseudo-Frobenius numbers (and thus its type) and its gender.
 
