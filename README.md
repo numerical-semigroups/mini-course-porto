@@ -1,4 +1,5 @@
 # Mini-course on Numerical semigroups
+
 Mini-course of numerical semigroups held at [CMUP](https://www.cmup.pt/), [Universidade do Porto](https://www.up.pt/).
 
 The course was divided into three lessons.
