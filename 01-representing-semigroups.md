@@ -1,5 +1,5 @@
 ---
-title: Three ways for representing a numerical semigroup
+title: Three ways used to represent a numerical semigroup
 authors:
   - name: Pedro A. García Sánchez
     affiliations:
